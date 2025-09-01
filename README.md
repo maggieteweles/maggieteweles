@@ -1,6 +1,19 @@
-## Hi there 👋
-My name is Maggie and I'm interested in playing tennis, love doing the NYT Connections, and am enjoying watching the show Modern Love!
-[Connect with  me on LinkedIn!](https://www.linkedin.com/in/maggie-teweles-0a87b0301) 
+<h1 align="center">Hey 🕺🪩, I'm Maggie!</h1>
+<h3 align="center">My name is Maggie and love playing tennis, doing the NYT Connections, and am enjoying watching a show called Modern Love!</h3>
+
+- 🎾 I’m currently learning **how to use Adobe suite!**
+
+- 🎾 I’m looking for help with **learning Python**
+
+- 🎾 Fun fact **I have 52 allergies!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/maggie-teweles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maggie-teweles" height="30" width="40" /></a>
+</p>
+
+
+
 
 <!--
 **maggieteweles/maggieteweles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
