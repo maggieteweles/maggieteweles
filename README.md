@@ -1,6 +1,6 @@
 ## Hi there 👋
 My name is Maggie and I'm interested in playing tennis, love doing the NYT Connections, and am enjoying watching the show Modern Love!
-[Connect with  me on LinkedIn!](www.linkedin.com/in/maggie-teweles-0a87b0301) 
+[Connect with  me on LinkedIn!](https://www.linkedin.com/in/maggie-teweles-0a87b0301) 
 
 <!--
 **maggieteweles/maggieteweles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
