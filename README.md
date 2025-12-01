@@ -1,5 +1,5 @@
 <h1 align="center">Hey 🕺🪩, I'm Maggie!</h1>
-<h3 align="center">My name is Maggie! </h3>
+<h3 align="center">About Me: </h3>
 
   <li>I am studying Media Arts in Design with a concentration in Creative Advertising and a minor in Entrepreneurship.</li>
   <li>I serve as the Secretary of Club Tennis, work as a tutor for student athletes, and am an Adventure Specialist at the University Recreation Center. </li>
