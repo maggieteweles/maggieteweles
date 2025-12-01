@@ -1,13 +1,10 @@
 <h1 align="center">Hey 🕺🪩, I'm Maggie!</h1>
-<h3 align="center">My name is Maggie! 
+<h3 align="center">My name is Maggie! </h3>
+
   -I am studying Media Arts in Design with a concentration in Creative Advertising and a minor in Entrepreneurship. 
   -I serve as the Secretary of Club Tennis, work as a tutor for student athletes, and am an Adventure Specialist at the University Recreation Center. 
   -I studied abroad in London the summer of 2025 and interned at a Public Relations firm. 
-  -In my sophomore year, I worked as a teaching assistant for Psychology 160.</h3>
-
-- 🎾 I’m currently learning **how to use Adobe suite!**
-
-- 🎾 I’m looking for help with **learning Python**
+  -In my sophomore year, I worked as a teaching assistant for Psychology 160.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
